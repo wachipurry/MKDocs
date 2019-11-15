@@ -1,0 +1,9 @@
+site_name: JavierMartinDocs
+theme: flatly
+nav:
+ - Index: index.md
+ - Institut: institut.md
+ - Asignatures: asignatures.md
+ - Projectes: projectes.md
+ - Footer: footer.md
+
